@@ -9,12 +9,6 @@ The Oasis Infobyte Data Science Internship was a comprehensive program designed 
 - Task 2: Car Price Prediction using Machine Learning
 - Task 3: Email Spam Prediction using Machine Learning  
 
-# Skills used
-- Data cleaning and preprocessing
-- Descriptive statistics
-- Data visualization using Matplotlib, Seaborn and Plotly
-- Predictive Analysis
-
 # Learning Outcomes
 Through this internship, I have achieved the following:
 - Improved proficiency in Python for data analysis and machine learning
