@@ -15,18 +15,29 @@ The Oasis Infobyte Data Science Internship was a comprehensive program designed 
 - Data visualization using Matplotlib, Seaborn and Plotly
 - Predictive Analysis
 
-# Tools Used
-- Python
-- Pandas
-- Numpy
-- Matplotlib
-- Seaborn
-- Plotly
+# Learning Outcomes
+Through this internship, I have achieved the following:
+- Improved proficiency in Python for data analysis and machine learning
+- Gained hands-on experience with data cleaning, preprocessing, and visualization
+- Developed the ability to build and evaluate machine learning models
+- Enhanced skills in communicating data insights through visualizations
 - Evaluation metrics for regression/classification
 - Hyperparameter tuning
+
+# Technologies Used
+Programming Languages: Python
+Libraries: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Plotly
+Tools: Jupyter Notebook, Excel
 
 # Contributing
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
 
 # Acknowledgements
 I would like to thank Oasis Infobyte for this incredible learning opportunity. The mentorship and guidance provided throughout the internship have been invaluable in advancing my career in data science.
+
+# Contacts
+If you have any questions or would like to connect, feel free to reach out:
+
+Email: Email = [gourav.panchal0601@gmail.com]
+LinkedIn: Your LinkedIn Profile
+GitHub: Your GitHub Profile
