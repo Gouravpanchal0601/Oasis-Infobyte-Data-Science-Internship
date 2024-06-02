@@ -38,6 +38,6 @@ I would like to thank Oasis Infobyte for this incredible learning opportunity. T
 # Contacts
 If you have any questions or would like to connect, feel free to reach out:
 
-Email: gourav.panchal0601@gmail.com
-LinkedIn: Your LinkedIn Profile
-GitHub: Your GitHub Profile
+- Email: [My Email](gourav.panchal0601@gmail.com)
+- LinkedIn: [My LinkedIn Profil](https://www.linkedin.com/in/gourav-panchal-4b899430a/)
+- GitHub: [My GitHub Profile](https://github.com/Gouravpanchal0601)
